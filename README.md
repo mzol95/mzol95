@@ -10,3 +10,10 @@
 - 👨‍💻 All of my projects are available at [github.com/mzol95/](http://www.github.com/mzol95/)
 
 - 📫 How to reach me **m.s.zoltowski@gmail.com**
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,git,postman,docker,mysql,idea,arduino/>
+  </a>
+</p>
