@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzol95&label=Profile%20views&color=0e75b6&style=flat" alt="mzol95" /> </p>
 
-- 🔭 I’m currently working on [Project manager](github.com/mzol95/project_manager_api)
+- 🔭 I’m currently working on [Project manager](http://www.github.com/mzol95/project_manager_api)
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [github.com/mzol95/](github.com/mzol95/)
+- 👨‍💻 All of my projects are available at [github.com/mzol95/](http://www.github.com/mzol95/)
 
 - 📫 How to reach me **m.s.zoltowski@gmail.com**
